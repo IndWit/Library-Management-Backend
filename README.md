@@ -1,8 +1,3 @@
-﻿Here you go, madam — a **clean, professional, interview-ready README.md for your backend project**, based entirely on your current solution structure.
-
-This README follows industry standards and will look strong in your assignment submission.
-
----
 
 # 📚 Library Management System – Backend (C# .NET API)
 
